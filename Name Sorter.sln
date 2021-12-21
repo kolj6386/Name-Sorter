@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Name Sorter", "Name Sorter\Name Sorter.csproj", "{523FE26C-AE54-49E6-B99E-DBC5C2EF2698}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Name_Sorter_Unit_Tests", "Name_Sorter_Unit_Tests\Name_Sorter_Unit_Tests.csproj", "{6C7F692C-958E-4AB0-9D3D-FDA347180E1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{523FE26C-AE54-49E6-B99E-DBC5C2EF2698}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{523FE26C-AE54-49E6-B99E-DBC5C2EF2698}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{523FE26C-AE54-49E6-B99E-DBC5C2EF2698}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{523FE26C-AE54-49E6-B99E-DBC5C2EF2698}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C7F692C-958E-4AB0-9D3D-FDA347180E1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C7F692C-958E-4AB0-9D3D-FDA347180E1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C7F692C-958E-4AB0-9D3D-FDA347180E1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C7F692C-958E-4AB0-9D3D-FDA347180E1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4C1F861-2D53-4454-BBA3-AC92E99BB37A}
+	EndGlobalSection
+EndGlobal
